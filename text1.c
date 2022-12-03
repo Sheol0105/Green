@@ -9,7 +9,6 @@ int main()
 	int b = 0;
 	int c = 0;
 	scanf("%d%d%d", &a, &b, &c);
-	//µ÷ÕûË³Ğò
 	if (a < b)
 	{
 		int tmp = a;
